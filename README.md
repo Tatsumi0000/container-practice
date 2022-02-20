@@ -1,2 +1,8 @@
 # container-practice
 Docker/k8sの勉強リポジトリ
+
+## なにか
+
+- [Certified Kubernetes Application Developer](https://www.cncf.io/certification/ckad/)
+- [Candidate Handbook](https://www.cncf.io/certification/candidate-handbook)
+- [Exam Tips](https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad)
